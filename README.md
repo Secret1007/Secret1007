@@ -26,8 +26,7 @@
 
 ### 开源项目
 
-[![]https://github.com/Secret1007/web3
-<br><br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github 活跃度
 
