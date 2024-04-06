@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:Secret007?theme=rule34">
 
 ## 前端工程师—安静
 
@@ -26,13 +26,13 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Secret007&repo=mp4To4K-rust)](https://github.com/Secret007/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=Secret007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Secret007's github stats](https://github-readme-stats.vercel.app/api?username=Secret007&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret007&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret007&layout=compact&langs_count=6)
