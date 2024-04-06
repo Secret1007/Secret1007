@@ -31,8 +31,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Secret1007&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Secret1007's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Secret1007)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
