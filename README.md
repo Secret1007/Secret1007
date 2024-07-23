@@ -4,7 +4,7 @@
 
 Passionate about frontend development and technology. With 4 years of work experience. Enjoy participating in discussions on open-source projects.
 
-### **tech stack:**
+### **Tech Stack:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
@@ -17,11 +17,11 @@ Passionate about frontend development and technology. With 4 years of work exper
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### GitHub stats
+### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
 
-### github activity
+### Github Activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Secret1007)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Top Langs
