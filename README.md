@@ -4,7 +4,7 @@
 
 Passionate about frontend development and technology. With 4 years of work experience. Enjoy participating in discussions on open-source projects.
 
-### **技术栈:**
+### **tech stack:**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
@@ -17,12 +17,12 @@ Passionate about frontend development and technology. With 4 years of work exper
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
 
-### Github 活跃度
+### github activity
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Secret1007)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### 使用最多
+### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
