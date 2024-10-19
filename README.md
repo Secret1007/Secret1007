@@ -28,4 +28,6 @@ Passionate about frontend development and technology. With 4 years of work exper
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Badge
-![CCIP Badge](https://assets.poap.xyz/7f8e4878-9ef9-4cd5-abdc-4147ba6e2094.gif)
+<a href="https://collectors.poap.xyz/scan/0x88d6fa78b18624A189140d5E8B131F639CeF3Fb2">
+  <img src="https://assets.poap.xyz/7f8e4878-9ef9-4cd5-abdc-4147ba6e2094.gif" alt="POAP Badge" width="100">
+</a>
