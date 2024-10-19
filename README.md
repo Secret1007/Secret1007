@@ -26,3 +26,6 @@ Passionate about frontend development and technology. With 4 years of work exper
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Secret1007)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret1007)](https://github.com/anuraghazra/github-readme-stats)
+
+### Badge
+![CCIP Badge](https://assets.poap.xyz/7f8e4878-9ef9-4cd5-abdc-4147ba6e2094.gif)
