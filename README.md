@@ -18,16 +18,18 @@ Passionate about frontend development and technology, with 4 years of work exper
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png" alt="Docker"></code></a>
 
 ### Badge
-<div style="display: flex; flex-direction: row; align-items: center; gap: 40px; text-align: center; min-width: 250px;">
-  <a href="https://collectors.poap.xyz/scan/0x88d6fa78b18624A189140d5E8B131F639CeF3Fb2" style="border: 2px solid #ffca28; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img src="https://assets.poap.xyz/7f8e4878-9ef9-4cd5-abdc-4147ba6e2094.gif" alt="POAP Badge" width="100" style="border-radius: 8px;">
-  </a>
-  
-  <a href="https://www.credly.com/earner/earned/badge/f17024c1-42bf-48c2-a17e-18bea1df8895" style="border: 2px solid #ffca28; border-radius: 8px; overflow: hidden; display: inline-block;">
-    <img height="100" src="./images/chainlink-fundamentals-certification.png" alt="Chainlink.js" style="border-radius: 8px;">
-  </a>
-</div>
 
+
+
+## Badge
+
+<a href="https://collectors.poap.xyz/scan/0x88d6fa78b18624A189140d5E8B131F639CeF3Fb2">
+  <img src="https://assets.poap.xyz/7f8e4878-9ef9-4cd5-abdc-4147ba6e2094.gif" alt="POAP Badge" width="100" style="border-radius: 8px;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/f17024c1-42bf-48c2-a17e-18bea1df8895">
+  <img height="100" src="./images/chainlink-fundamentals-certification.png" alt="Chainlink.js" style="border-radius: 8px;">
+</a>
 
 
 ### Language Proficiency
