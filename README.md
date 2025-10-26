@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:1a1a2e&height=250&section=header&text=Secret's%20Digital%20Realm&fontSize=50&fontColor=FF1493&animation=fadeIn&fontAlignY=45)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:1a1a2e&height=100&section=header&text=Secret's%20Digital%20Realm&fontSize=30&fontColor=FF1493&animation=fadeIn&fontAlignY=45)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=900&height=120&lines=🎮+Secret+here+~+Debugging+my+life...;💻+Code+Wizard+%7C+Bug+Summoner+%7C+Coffee+Converter;⚡+Turning+caffeine+into+code+since+2020)](https://git.io/typing-svg)
 
