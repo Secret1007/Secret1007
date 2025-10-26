@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&background=0D1117&width=700&height=60&lines=🎮+Secret+here+~+Debugging+my+life...;💻+Code+Wizard+%7C+Bug+Summoner+%7C+Coffee+Converter;⚡+Turning+caffeine+into+code+since+2020" />
-  
-</p>
-<p align="center">
-  <a href="https://xkcd.com/303/">
-    <img src="https://imgs.xkcd.com/comics/compiling.png" alt="XKCD: Compiling" width="500" />
-  </a>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FF1493&background=0D1117FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Secret+here+~+Debugging+my+life...;Code+Wizard+%7C+Bug+Summoner;Turning+caffeine+into+code+since+2020" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%230D1117&textColor=%23FF1493" alt="Programming joke" />
 </p>
+
 
 ## 🤪 Who am I?
 
@@ -77,6 +71,8 @@ Passionate about frontend development and technology, with **4 years of professi
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Secret1007&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
 ---
 
 <p align="center">
@@ -85,4 +81,11 @@ Passionate about frontend development and technology, with **4 years of professi
 
 <p align="center">
   ⭐️ From <a href="https://github.com/Secret1007">Secret</a> - Feel free to reach out for collaborations or just a friendly chat!
+</p>
+
+<p align="center">
+  <a href="https://xkcd.com/303/">
+    <img src="https://imgs.xkcd.com/comics/compiling.png" alt="XKCD: Compiling" width="500" />
+  </a>
+  
 </p>
