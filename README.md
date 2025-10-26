@@ -1,11 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&background=0D1117&width=700&height=60&lines=🎮+Secret+here+~+Debugging+my+life...;💻+Code+Wizard+%7C+Bug+Summoner+%7C+Coffee+Converter;⚡+Turning+caffeine+into+code+since+2020" />
   
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:1a1a2e&height=100&section=header&text=Secret's%20Digital%20Realm&fontSize=30&fontColor=FF1493&animation=fadeIn&fontAlignY=45)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF1493&background=00000000&center=true&vCenter=true&multiline=true&random=false&width=900&height=120&lines=🎮+Secret+here+~+Debugging+my+life...;💻+Code+Wizard+%7C+Bug+Summoner+%7C+Coffee+Converter;⚡+Turning+caffeine+into+code+since+2020)](https://git.io/typing-svg)
-
-
-</div>
+</p>
+<p align="center">
+  <a href="https://xkcd.com/303/">
+    <img src="https://imgs.xkcd.com/comics/compiling.png" alt="XKCD: Compiling" width="500" />
+  </a>
+  
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%230D1117&textColor=%23FF1493" alt="Programming joke" />
+</p>
 
 ## 🤪 Who am I?
 
@@ -37,7 +42,7 @@ Passionate about frontend development and technology, with **4 years of professi
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png" alt="Vite"></code></a>
 
 ### Backend & DevOps
-<a href="https://www.python.org"><code><img height="20" src="./images/python.png" alt="Python"></code></a>
+<a href="https://www.python.org"><code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png" alt="Go"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png" alt="Docker"></code></a>
 
