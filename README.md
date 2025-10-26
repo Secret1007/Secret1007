@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FF1493&background=0D1117FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Secret+here+~+Debugging+my+life...;Code+Wizard+%7C+Bug+Summoner;Turning+caffeine+into+code+since+2020" alt="Typing SVG" />
-</p>
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder&bgColor=%230D1117&textColor=%23FF1493" alt="Programming joke" />
 </p>
@@ -8,7 +6,9 @@
 
 ## 🤪 Who am I?
 
-Passionate about frontend development and technology, with **4 years of professional experience**. I enjoy building beautiful, performant web applications and contributing to open-source projects. Always eager to learn new technologies and share knowledge with the community.
+- 🎮 Secret here ~ Debugging my life...
+- 💻 Code Wizard | Bug Summoner | Coffee Converter
+- ⚡ Turning caffeine into code since 2020
 
 ---
 
